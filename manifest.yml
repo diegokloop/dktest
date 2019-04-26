@@ -1,4 +1,4 @@
 ---
 applications:
 - command: bundle exec rails s
-- buildpacks: https://github.com/cloudfoundry/ruby-buildpack.git
+# - buildpacks: https://github.com/cloudfoundry/ruby-buildpack.git
